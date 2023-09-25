@@ -1,0 +1,8 @@
+[user]
+	email = psalmduah30@gmail.com
+	name = psalmduah
+	signingkey = 8E630F4454DBF6AF
+
+[commit]
+	gpgsign = true
+	template = C:/Users/psalm/.gitmessage
